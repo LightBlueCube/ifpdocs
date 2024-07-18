@@ -16,6 +16,8 @@
 
 - <strong><font color="#3344DD">Servers</font></strong>
 
+  - [<font color="#7755BB">无限火力Stable</font>](docs/stable.md)
+
   - [<font color="#7755BB">无限火力Rotation</font>](docs/rotation.md)
 
   - [<font color="#AA88FF">Rotation中各个模式的改动</font>](docs/gamemode.md)
@@ -26,8 +28,4 @@
 
 <!--
   - [<font color="#33CCAA">关于关闭进游戏时的黑屏</font>](docs/stop_show_the_fking_docs.md)
--->
-
-<!--
-  - [<font color="#7755BB">无限火力Stable</font>](docs/stable.md)
 -->
