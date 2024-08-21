@@ -18,9 +18,11 @@
 
   - [<font color="#7755BB">无限火力Stable</font>](docs/stable.md)
 
+  - [<font color="#AA88FF">Stable中各个模式的改动</font>](docs/mode_for_stable.md)
+
   - [<font color="#7755BB">无限火力Rotation</font>](docs/rotation.md)
 
-  - [<font color="#AA88FF">Rotation中各个模式的改动</font>](docs/gamemode.md)
+  - [<font color="#AA88FF">Rotation中各个模式的改动</font>](docs/mode_for_rotation.md)
 
 - <strong><font color="#DD8866">Developer</font></strong>
 

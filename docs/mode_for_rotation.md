@@ -1,7 +1,7 @@
 ## 游戏模式改动
 
 > [!NOTE|style:flat|label:Note]
-> 游戏模式包基于[VoyageDB](https://github.com/DBmaoha)的[nessie.tempfix](https://github.com/DBmaoha/Super.Mixed.Game/tree/nessie-tempfix)修改得来！非常感谢！
+> 游戏模式基于[VoyageDB](https://github.com/DBmaoha)的[nessie.tempfix](https://github.com/DBmaoha/Super.Mixed.Game/tree/nessie-tempfix)修改得来！非常感谢！
 
 ### 消耗战
 
