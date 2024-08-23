@@ -1,6 +1,6 @@
 ## 训牛术
 
-开启一代训牛术，如果被训牛泰坦为黄血，则受到的训牛伤害减半
+使用一代训牛术
 
 > [!NOTE|style:flat|label:Note]
 > 一代训牛术由[VoyageDB](https://github.com/DBmaoha)修复并完善！在此感激不尽<br/>
