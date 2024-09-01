@@ -1,6 +1,6 @@
--  - [<font color="#FF1199">更新日志 / CHANGELOG</font>](changelog.md)
-
 - <strong><font color="#00BB33">Introduction</font></strong>
+
+  - [<font color="#FF1199">更新日志 / CHANGELOG</font>](changelog.md)
 
   - [<font color="#33CCAA">连杀奖励和GUI菜单</font>](docs/killstreak.md)
 
