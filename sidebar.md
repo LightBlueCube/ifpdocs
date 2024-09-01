@@ -1,4 +1,4 @@
-  - [<font color="#FF1199">更新日志 / CHANGELOG</font>](changelog.md)
+-  - [<font color="#FF1199">更新日志 / CHANGELOG</font>](changelog.md)
 
 - <strong><font color="#00BB33">Introduction</font></strong>
 
