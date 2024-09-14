@@ -1033,11 +1033,14 @@ code .token {
 }
 
 .gradient-text {
-    font-size: 48px; /* 调整字体大小 */
-    font-weight: bold; /* 设置字体粗细 */
-    background: linear-gradient(45deg, #33ccaa, #ffcc00, #ff00ff, #00ffff);
+    background: linear-gradient(45deg, #ff0000, #00ff00, #0000ff);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-clip: text;
     color: transparent; /* 对于不支持的浏览器 */
+}
+
+.random-color {
+	display: inline-block;
+	color: #000000;
 }
