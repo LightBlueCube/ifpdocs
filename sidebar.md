@@ -24,6 +24,8 @@
 
 - <strong><font color="#DD8866">Developer</font></strong>
 
+  - [<div class="gradient-text">自定义你的聊天文字的颜色</div>](dev/colorchat.md)
+
   - [<font color="#FF9966">Music API(未完成)</font>](dev/musicapi.md)
 
 <!--
