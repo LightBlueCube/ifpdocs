@@ -14,6 +14,8 @@
 
   - [<font color="#33CCAA">七个客制化泰坦</font>](docs/modifytitan.md)
 
+  - [<div class="gradient-text">自定义你发送的聊天文字的颜色</div>](docs/colorchat.md)
+
 - <strong><font color="#3344DD">Servers</font></strong>
 
   - [<font color="#7755BB">无限火力Stable</font>](docs/stable.md)
@@ -23,8 +25,6 @@
   - [<font color="#AA88FF">Rotation中各个模式的改动</font>](docs/mode_for_rotation.md)
 
 - <strong><font color="#DD8866">Developer</font></strong>
-
-  - [<div class="gradient-text">自定义你的聊天文字的颜色</div>](dev/colorchat.md)
 
   - [<font color="#FF9966">Music API(未完成)</font>](dev/musicapi.md)
 
