@@ -5,9 +5,8 @@
 > [!NOTE|style:flat|label:Note]
 > 请注意感叹号全半角，不要打开输入法输入感叹号
 
-### 举例
+## 举例
 
-<br/>
 
 `!0 我是黑色`
 
@@ -42,10 +41,10 @@
 
 <div class="random-color" id="text">我是随机色</div><font color="#000000">我是黑色</font><div class="random-color" id="text2">我和前面的随机色颜色一样!</div>
 
-<button onclick="applyRandomColor()">更改颜色</button>
+<button onclick="applyRandomColor()">点我更改颜色</button>
 
 `!r 我是随机色!0 我是黑色!r 我是另一个随机色，和前面不一样！`
 
-<div class="random-color" id="text3">我是随机色</div><font color="#000000">我是黑色</font><div class="random-color" id="text4">我是另一个随机色，和前面不一样！!</div>
+<div class="random-color" id="text3">我是随机色</div><font color="#000000">我是黑色</font><div class="random-color" id="text4">我是另一个随机色，和前面不一样！</div>
 
-<button onclick="applyRandomColor2()">更改颜色</button>
+<button onclick="applyRandomColor2()">点我更改颜色</button>

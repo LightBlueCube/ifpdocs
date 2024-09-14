@@ -14,7 +14,7 @@
 
   - [<font color="#33CCAA">七个客制化泰坦</font>](docs/modifytitan.md)
 
-  - [<div class="gradient-text">自定义你发送的聊天文字的颜色</div>](docs/colorchat.md)
+  - [<span class="gradient-text">自定义你发送的聊天文字的颜色</span>](docs/colorchat.md)
 
 - <strong><font color="#3344DD">Servers</font></strong>
 
