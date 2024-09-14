@@ -1035,7 +1035,7 @@ code .token {
 .gradient-text {
     font-size: 48px; /* 调整字体大小 */
     font-weight: bold; /* 设置字体粗细 */
-    background: linear-gradient(45deg, #33ccaa, #ffcc00, #ff00ff, #00ffff,);
+    background: linear-gradient(45deg, #33ccaa, #ffcc00, #ff00ff, #00ffff);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-clip: text;
