@@ -4,7 +4,7 @@
 
 > [!NOTE|style:flat|label:Note]
 > 一代训牛术由[VoyageDB](https://github.com/DBmaoha)修复并完善！在此感激不尽<br/>
-> 伤害通过算法平衡，所有武器（部分特殊武器另做平衡）<strong><font color="#17a2b8">拆一个血量为15000的泰坦所需的击杀时间都在2.0±0.1秒</font></strong>
+> 伤害通过算法平衡，所有武器（部分特殊武器另做平衡）<strong><font color="#17a2b8">拆一个血量为15000的泰坦所需的击杀时间都在1.6±0.2秒</font></strong>
 
 当被训牛时，敌方铁驭**总是会拔出泰坦的电池**
 
@@ -16,8 +16,11 @@
 > 电池被拔出后，会在你泰坦的名字后显示`反應爐外漏`，<strong><font color="#dc3545">所有人都能看到</font></strong>，小心行事！
 
 > [!TIP|style:flat|label:Tips]
-> 训牛术拔出电池时<strong><font color="#28a745">不再会打断隐身效果</font></strong>
-> 训牛术拔出电池的伤害<strong><font color="#28a745">会绕过护盾直接对机体造成伤害</font></strong>
+> 当你被训牛又没有电子烟幕时，可以尝试下机掏枪攻击正在训牛的铁驭，泰坦会配合你低头不乱动
+
+> [!NOTE|style:flat|label:Note]
+> 训牛术拔出电池时<strong><font color="#17a2b8">不再会打断隐身效果</font></strong>
+> 训牛术拔出电池的伤害<strong><font color="#17a2b8">会绕过护盾直接对机体造成伤害</font></strong>
 
 当玩家训牛离机时，获得的离机速度增加，且**跳离时继承被训牛泰坦的速度**
 
