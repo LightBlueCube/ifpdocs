@@ -1045,3 +1045,7 @@ code .token {
 	display: inline-block;
 	color: #000000;
 }
+
+.low-opacity-text {
+	opacity: 0.3; /* 设置透明度为30% */
+}
