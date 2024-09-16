@@ -4,7 +4,7 @@
 
 > [!NOTE|style:flat|label:Note]
 > 一代训牛术由[VoyageDB](https://github.com/DBmaoha)修复并完善！在此感激不尽<br/>
-> 伤害通过算法平衡，所有武器（部分特殊武器另做平衡）<strong><font color="#17a2b8">拆一个血量为15000的泰坦所需的击杀时间都在1.6±0.2秒</font></strong>
+> 伤害通过算法平衡，所有武器（部分特殊武器另做平衡）<strong><font color="#17a2b8">拆一个血量为15000的泰坦所需的击杀时间都在2.0±0.2秒</font></strong>
 
 当被训牛时，敌方铁驭**总是会拔出泰坦的电池**
 
