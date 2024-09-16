@@ -19,7 +19,7 @@
 > 当你被训牛又没有电子烟幕时，可以尝试下机掏枪攻击正在训牛的铁驭，泰坦会配合你低头不乱动
 
 > [!NOTE|style:flat|label:Note]
-> 训牛术拔出电池时<strong><font color="#17a2b8">不再会打断隐身效果</font></strong>
+> 训牛术拔出电池时<strong><font color="#17a2b8">不再会打断隐身效果</font></strong><br/>
 > 训牛术拔出电池的伤害<strong><font color="#17a2b8">会绕过护盾直接对机体造成伤害</font></strong>
 
 当玩家训牛离机时，获得的离机速度增加，且**跳离时继承被训牛泰坦的速度**
