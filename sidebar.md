@@ -16,13 +16,13 @@
 
   - [<span class="gradient-text">自定义你发送的聊天文字的颜色</span>](docs/colorchat.md)
 
-- <strong><font color="#3344DD">Servers | 在开的服务器</font></strong>
+- <strong><font color="#3344DD">Servers</font></strong>
 
-  - [<font color="#7755BB">Stable | 固定模式服</font>](docs/rotation.md)
+  - [<font color="#7755BB">Stable</font>](docs/stable.md)
 
-  - [<font color="#7755BB">Rotation | 轮换模式服</font>](docs/rotation.md)
+  - [<font color="#7755BB">Rotation</font>](docs/rotation.md)
 
-  - [<font color="#AA88FF">Rotation中的各个模式的改动</font>](docs/mode_for_rotation.md)
+  - [<font color="#AA88FF">Rotation中各个模式的改动</font>](docs/mode_for_rotation.md)
 
 - <strong><font color="#DD8866">Developer</font></strong>
 

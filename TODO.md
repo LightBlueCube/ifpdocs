@@ -16,18 +16,6 @@
 
 - [ ] 客制化武器更改damagesourceid
 
-stable set low rodeo tgttime
-
-bigger rodeo use range
-
-bigger rodeo leaving speed
-
-rotation disable weapon drops allowed
-
 ## TEST
-
-- [ ] cm model scale
-
-- [ ] RadiusDamage explosionForce
 
 - [ ] abs offhand wpn and switch to particle accelerator
