@@ -6,29 +6,23 @@
 
 - [ ] 增加野兽（字面意思）
 
-- [ ] networkvar事件api，新增cmd禁止事件音频
-
 - [ ] 实现vtol
-
-- [ ] 浪人快速剑封的问题修复（原版bug）
 
 ### features
 
 - [ ] 地图内交互
 
-- [ ] 游侠npc发射不了三连环的问题（暂时修不了）
+- [ ] stable在每局进入postmatch之前播放有趣的数据，比如，本局使用最多的泰坦，本局被击杀最多的玩家，本局被训牛最多的玩家，本局似的最多的泰坦
 
-- [ ] 在每局进入postmatch之前播放有趣的数据，比如，本局使用最多的泰坦，本局被击杀最多的玩家，本局被训牛最多的玩家，本局似的最多的泰坦
+- [ ] 客制化武器更改damagesourceid
 
-<br/>
+stable set low rodeo tgttime
 
-- [ ] 修复ifp太屎山的问题
+bigger rodeo use range
 
-  - [ ] 注意endsignal存在直接return不跑下面语句情况
+bigger rodeo leaving speed
 
-  - [ ] 客制化武器更改damagesourceid
-
-----
+rotation disable weapon drops allowed
 
 ## TEST
 
