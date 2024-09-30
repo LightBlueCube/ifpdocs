@@ -8,7 +8,7 @@
 >
 > 或[发送一个Issues](https://github.com/LightBlueCube/Infinite-Firepower/issues/new/choose)给我
 
-> [!NOTE|style:flat|label:特别鸣谢（名字按首字母顺序排列）：]
+> [!NOTE|style:callout|label:特别鸣谢（名字按首字母顺序排列）：]
 >
 > [cmggy](https://github.com/cmggy)
 > <br/>
