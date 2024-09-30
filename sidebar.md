@@ -1,4 +1,4 @@
-- [<font color="#0099CC">首页 / Main Page</font>](index.html)
+- [<font color="#0099CC">首页 / Main Page</font>](/#/)
 
 - <strong><font color="#00BB33">Introduction</font></strong>
 
