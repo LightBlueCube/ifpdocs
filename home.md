@@ -8,25 +8,27 @@
 >
 > 或[发送一个Issues](https://github.com/LightBlueCube/Infinite-Firepower/issues/new/choose)给我
 
-## 特别鸣谢（名字按首字母顺序排列）：
-
-[cmggy](https://github.com/cmggy)
-
-[D3-3109](https://github.com/D3-3109)
-
-[DZ](https://github.com/Ghroth-follower)
-
-[KKoishi](https://github.com/Koishi-Satori)
-
-[Pan-da32767](https://github.com/Pan-da32767)
-
-[VoyageDB](https://github.com/DBmaoha)
-
-[wolf109909](https://github.com/wolf109909)
-
-[xiaobbuguai](https://github.com/xiaobbuguai)
-
-[zxcPandora](https://github.com/zxcPandora)
+> [!NOTE|style:flat|label:Note]
+>
+> 特别鸣谢（名字按首字母顺序排列）：
+> <br/>
+> [cmggy](https://github.com/cmggy)
+> <br/>
+> [D3-3109](https://github.com/D3-3109)
+> <br/>
+> [DZ](https://github.com/Ghroth-follower)
+> <br/>
+> [KKoishi](https://github.com/Koishi-Satori)
+> <br/>
+> [Pan-da32767](https://github.com/Pan-da32767)
+> <br/>
+> [VoyageDB](https://github.com/DBmaoha)
+> <br/>
+> [wolf109909](https://github.com/wolf109909)
+> <br/>
+> [xiaobbuguai](https://github.com/xiaobbuguai)
+> <br/>
+> [zxcPandora](https://github.com/zxcPandora)
 
 > [!WARNING|style:flat|label:已知问题]
 > <strong><font color="#852d12">使用任何的更改技能HUD显示类MOD都会导致部分客制化泰坦技能的充能无法正常显示，请使用原版HUD！</font></strong>
