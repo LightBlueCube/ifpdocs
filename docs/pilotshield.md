@@ -18,9 +18,11 @@
 > 如果找不到该按键可以去看 **设定 - 控制 - 按键对应** 内的`启用强化（多人）`绑定的是什么
 
 > [!WARNING|style:flat|label:Warning]
-> 护盾会将<strong><font color="#852d12">溢出的伤害继承给铁驭</font></strong><br/>
+> 护盾会将<strong><font color="#852d12">溢出的伤害继承给铁驭</font></strong>
+>
 > 即为：当你受到了一次<strong><font color="#852d12">大于护盾剩余生命值的伤害</font></strong> ，护盾在消耗破碎后<strong><font color="#852d12">剩余的伤害会被直接继承到铁驭</font></strong>上并导致铁驭受伤或死亡
 
 > [!ATTENTION|style:flat|label:Attention]
-> 电子烟类伤害会<strong><font color="#dc3545">绕过护盾额外对铁驭本体造成50%伤害</font></strong><br/>
+> 电子烟类伤害会<strong><font color="#dc3545">绕过护盾额外对铁驭本体造成50%伤害</font></strong>
+>
 > 电弧手榴弹和电浆爆破弹会直接<strong><font color="#dc3545">摧毁护盾</font></strong>

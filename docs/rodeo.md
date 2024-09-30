@@ -3,7 +3,8 @@
 使用经典训牛术
 
 > [!NOTE|style:flat|label:Note]
-> 经典训牛术由[VoyageDB](https://github.com/DBmaoha)修复并完善！在此感激不尽<br/>
+> 经典训牛术由[VoyageDB](https://github.com/DBmaoha)修复并完善！在此感激不尽
+>
 > 伤害通过算法平衡，所有武器（部分特殊武器另做平衡）<strong><font color="#17a2b8">拆一个血量为15000的泰坦所需的击杀时间都在2.0±0.2秒</font></strong>
 
 提高了泰坦训牛的有效范围，可以在更远的地方触发训牛攀爬
@@ -30,7 +31,8 @@
 > 当你被训牛又没有电子烟幕时，可以尝试下机掏枪攻击正在训牛的铁驭，泰坦会配合你低头不乱动
 
 > [!NOTE|style:flat|label:Note]
-> 训牛术拔出电池时<strong><font color="#17a2b8">不再会打断隐身效果</font></strong><br/>
+> 训牛术拔出电池时<strong><font color="#17a2b8">不再会打断隐身效果</font></strong>
+>
 > 训牛术拔出电池的伤害<strong><font color="#17a2b8">会绕过护盾直接对机体造成伤害</font></strong>
 
 ## 电池机制

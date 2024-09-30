@@ -13,21 +13,21 @@
 > [!NOTE|style:callout|label:特别鸣谢（名字按首字母顺序排列）：]
 >
 > [cmggy](https://github.com/cmggy)
-> <br/>
+>
 > [D3-3109](https://github.com/D3-3109)
-> <br/>
+>
 > [DZ](https://github.com/Ghroth-follower)
-> <br/>
+>
 > [KKoishi](https://github.com/Koishi-Satori)
-> <br/>
+>
 > [Pan-da32767](https://github.com/Pan-da32767)
-> <br/>
+>
 > [VoyageDB](https://github.com/DBmaoha)
-> <br/>
+>
 > [wolf109909](https://github.com/wolf109909)
-> <br/>
+>
 > [xiaobbuguai](https://github.com/xiaobbuguai)
-> <br/>
+>
 > [zxcPandora](https://github.com/zxcPandora)
 
 <br/>
