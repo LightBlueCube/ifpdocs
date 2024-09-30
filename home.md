@@ -33,7 +33,7 @@
 <br/>
 
 > [!WARNING|style:flat|label:已知问题]
-> <strong><font color="#852d12">使用任何的更改技能HUD显示类MOD都会导致部分客制化泰坦技能的充能无法正常显示，请使用原版HUD！</font></strong>
+> <strong><font color="#852d12">使用某些更改技能HUD显示类MOD都会导致部分客制化泰坦技能的充能无法正常显示，请使用原版HUD！</font></strong>
 >
 > 此问题主要是因为MOD更改过的HUD显示充能剩余的逻辑和原版不一致，导致部分客制化泰坦的技能因为客户端不同步的问题充能条会抽风，此问题无法修复，我也不会去修复
 >
