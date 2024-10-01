@@ -18,11 +18,11 @@
 
   - [<span class="gradient-text">自定义你发送的聊天文字的颜色</span>](docs/colorchat.md)
 
-- <strong><font color="#3344DD">Servers | 在开服务器的详细介绍</font></strong>
+- <strong><font color="#3344DD">About Servers</font></strong>
 
-  - [<font color="#7755BB">Stable | 固定模式 | 怎么爽怎么改的 | 只保证没超模怪</font>](docs/stable.md)
+  - [<font color="#7755BB">Stable | 这个服务器是怎么爽怎么改的 | 只保证没超模怪</font>](docs/stable.md)
 
-  - [<font color="#7755BB">Rotation | 轮换模式 | 只在合理范围内改动 | 反正没有超模怪</font>](docs/rotation.md)
+  - [<font color="#7755BB">Rotation | 这个服务器是带轮换模式的 | 只会在合理范围内改动</font>](docs/rotation.md)
 
 - <strong><font color="#DD8866">Developer</font></strong>
 
