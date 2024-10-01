@@ -24,8 +24,6 @@
 
   - [<font color="#7755BB">Rotation | 轮换模式 | 只在合理范围内改动 | 反正没有超模怪</font>](docs/rotation.md)
 
-  - [<font color="#AA88FF">Rotation中各个模式的改动</font>](docs/mode_for_rotation.md)
-
 - <strong><font color="#DD8866">Developer</font></strong>
 
   - [<font color="#FF9966">Music API(未完成)</font>](dev/musicapi.md)
