@@ -18,7 +18,7 @@
 
   - [<span class="gradient-text">自定义你发送的聊天文字的颜色</span>](docs/colorchat.md)
 
-- <strong><font color="#3344DD">About Servers</font></strong>
+- <strong><font color="#3344DD">Servers</font></strong>
 
   - [<font color="#7755BB">Stable | 这个服务器是怎么爽怎么改的 | 只保证没超模怪</font>](docs/stable.md)
 
