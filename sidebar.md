@@ -20,9 +20,7 @@
 
 - <strong><font color="#3344DD">Servers</font></strong>
 
-  - [<font color="#7755BB">Stable | 这个服务器是怎么爽怎么改的 | 只保证没超模怪</font>](docs/stable.md)
-
-  - [<font color="#7755BB">Rotation | 这个服务器是带轮换模式的 | 只会在合理范围内改动</font>](docs/rotation.md)
+  - [<font color="#7755BB">主要服务器"Rotation"的介绍</font>](docs/rotation.md)
 
 - <strong><font color="#DD8866">Developer</font></strong>
 
@@ -34,4 +32,6 @@
   - [<font color="#7755BB">无限火力Stable</font>](docs/stable.md)
   - [<font color="#7755BB">无限火力Rotation</font>](docs/rotation.md)
   - [<font color="#AA88FF">Rotation中各个模式的改动</font>](docs/mode_for_rotation.md)
+  - [<font color="#7755BB">Stable | 这个服务器是怎么爽怎么改的 | 只保证没超模怪</font>](docs/stable.md)
+  - [<font color="#7755BB">Rotation | 这个服务器是带轮换模式的 | 只会在合理范围内改动</font>](docs/rotation.md)
 -->
