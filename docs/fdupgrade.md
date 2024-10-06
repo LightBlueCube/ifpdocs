@@ -1,4 +1,4 @@
-![](assset/fdupgrade.jpg)
+![](/assset/fdupgrade.png)
 
 > [!NOTE|style:flat|label:Note]
 > 你可以在SL名字中带无限火力的边境防御服体验到带神盾升级版本的泰坦
