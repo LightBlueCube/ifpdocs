@@ -18,6 +18,8 @@
 
   - [<span class="gradient-text">自定义你发送的聊天文字的颜色</span>](docs/colorchat.md)
 
+  - [<font color="#F4A261">客制化泰坦的神盾升级</font>](docs/fdupgrade.md)
+
 - <strong><font color="#3344DD">Servers</font></strong>
 
   - [<font color="#7755BB">主要服务器"Rotation"的介绍</font>](docs/rotation.md)
