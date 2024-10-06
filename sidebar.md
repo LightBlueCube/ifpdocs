@@ -24,11 +24,11 @@
 
   - [<font color="#7755BB">主要服务器"Rotation"的介绍</font>](docs/rotation.md)
 
+<!--
 - <strong><font color="#DD8866">Developer</font></strong>
 
   - [<font color="#FF9966">Music API(未完成)</font>](dev/musicapi.md)
 
-<!--
   - [<font color="#33CCAA">关于关闭进游戏时的黑屏</font>](docs/stop_show_the_fking_docs.md)
   - [<font color="#AA88FF">Stable中各个模式的改动</font>](docs/mode_for_stable.md)
   - [<font color="#7755BB">无限火力Stable</font>](docs/stable.md)
