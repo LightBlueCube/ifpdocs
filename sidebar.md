@@ -24,7 +24,7 @@
 
   - [<font color="#7755BB">[PVP]轮换模式服务器 "Rotation" 的介绍</font>](docs/rotation.md)
 
-  - [<font color="#7755BB">[PVE]更聪明的边境防御 "SmartFD" 的介绍</font>](docs/smartfd.md)
+  - [<font color="#7755BB">[PVE]更聪明的边境防御的介绍</font>](docs/smartfd.md)
 
 <!--
 - <strong><font color="#DD8866">Developer</font></strong>
