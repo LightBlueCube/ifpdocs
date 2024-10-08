@@ -1,5 +1,5 @@
 > [!TIP|style:flat|label:Tips]
-> SmartFD是一个因为我看不下去原版边境防御增加难度竟然只是把伤害翻了2.5倍所以才开了个尝试不更改伤害倍数而通过其他方式增加难度的服务器
+> 聪明边境是一个因为我看不下去原版边境防御增加难度竟然只是把伤害翻了2.5倍所以才开了个尝试不更改伤害倍数而通过其他方式增加难度的服务器
 >
 > 使用了[Zanieon](https://github.com/Zanieon)的[gamemode_fd_experimental](https://github.com/Zanieon/NorthstarMods/tree/gamemode_fd_experimental)作为fd模式的实现，非常感谢
 
