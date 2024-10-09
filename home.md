@@ -16,8 +16,6 @@
 >
 > [D3-3109](https://github.com/D3-3109)
 >
-> [DZ](https://github.com/Ghroth-follower)
->
 > [KKoishi](https://github.com/Koishi-Satori)
 >
 > [Pan-da32767](https://github.com/Pan-da32767)
