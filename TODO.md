@@ -8,14 +8,19 @@
 
 - [ ] 实现vtol
 
-### features
-
 - [ ] 地图内交互
-
-- [ ] stable在每局进入postmatch之前播放有趣的数据，比如，本局使用最多的泰坦，本局被击杀最多的玩家，本局被训牛最多的玩家，本局似的最多的泰坦
 
 - [ ] 客制化武器更改damagesourceid
 
-## TEST
+使用滑索的幻影放置来替换scp018和轨道打击的交付
 
-- [ ] abs offhand wpn and switch to particle accelerator
+重写autoshutdown，增加onshutdowncallback和customshutdowntimewhenempty
+
+prop hunt模式
+
+通过mapedit做竞速模式
+
+sh_loadouts_common
+
+
+rimworld ost
